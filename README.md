@@ -69,12 +69,13 @@ git clone <REMOTE_URL>
 
 Depending on the settings of the repository, you might be asked to first make an account on the site such as GitLab or Github. Do that and repeat this step. You should be able to get the code. Congratulations, you have cloned your first project. 
 
-![some image](https://marklodato.github.io/visual-git-guide/basic-usage.svg)
-
 ### Change, add, commit, and push to repository 
 Now, make the desired changes to the project. 
 
-Once you have done this, you should want to push these back to the remote repository. This is what we will now do. 
+Once you have done this, you should want to push these back to the remote repository. This is what we will now do. The following figure shows the keys steps which will be discussed below. 
+
+![stage and commit](https://marklodato.github.io/visual-git-guide/basic-usage.svg)
+
 
 #### Stage
 Loosely speaking, when you pulled the repo, the folder that got formed is called the working directory. This contains the changes that you are currently working on. 
