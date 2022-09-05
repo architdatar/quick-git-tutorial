@@ -1,0 +1,3 @@
+1. Collect geospacial data from satellites. 
+2. Ask user for beginning and end points of their journey.
+2. Calculate quickest route to get there. 
