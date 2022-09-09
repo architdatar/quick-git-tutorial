@@ -14,9 +14,14 @@ This tutorial will walk you through a sample project in which you will provide f
 - [__Part II__](tutorial_part_II.md) covers slightly more advanced concepts such as handling branches, contributing to open source projects and next steps in your Git journey. 
 
 
-## Command line interface (CLI) and why this tutorial uses it (Under development)
+## Command line interface (CLI) and why this tutorial uses it
+There is a variety of graphical user interface (GUI) softwares available through which we can use Git such as Github Desktop and VS code. These make it quite easy to perform the most common applications with Git. However, in this tutorial, we insist on using the command line interface (CLI) tools. This is for the following reasons:
+1. *Exhaustiveness:* To quote the [Pro Git](https://git-scm.com/book/en/v2) book, 
+> ...the command line is the only place you can run all Git commands — most of the GUIs implement only a partial subset of Git functionality for simplicity. 
+2. *Simplicity:* Due to this, it is much easier to use your favorite GUI when you learn the CLI than going the other way around.
+3. *Universality:* There will be situations where the GUI will not be available. Most importantly, if you were to use it on a server which commonly occurs during deployment. 
 
-
+Thus, we recommend that the users accept the short-term pain of using CLI to ease their long-term journey of version control.
 
 
 

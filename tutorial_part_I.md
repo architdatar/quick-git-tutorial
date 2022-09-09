@@ -8,14 +8,7 @@ In this tutorial, you will install Git on your system, download (clone) the code
 First, check if you have Git. If you don't, download it. See [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) for more information. 
 
 ### Windows
-Open command prompt and type:
-```
-git --version
-```
-If you get a version, you have Git installed. Else, download it from using:
-```
-winget install --id Git.Git -e --source winget
-```
+Visit https://git-scm.com/download/win to download the latest version. As part of this installation, be sure to install Git Bash. This will be the CLI tool that you will use. 
 
 ### Mac
 Open the terminal and type:
@@ -137,7 +130,8 @@ Once you ensure that this is correct, type:
 git push
 ```
 
-Depending on the remote, you might be asked for your credentials. Enter those. 
+Depending on the remote, you might be asked for your credentials. Enter those. Visit your remote repo and refresh the page. You should see your changes updated there. 
+
 
 ## Conclusions and key learnings
 Congratulations! You have finished the basic steps to pull from and push to code to remote repositories. Visit the remote URL to verify that your changes are showing in the remote. You have now learned how to get code from and contribute code to your own remote respositories. 
