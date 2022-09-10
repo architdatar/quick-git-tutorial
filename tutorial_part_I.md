@@ -8,7 +8,7 @@ In this tutorial, you will install Git on your system, download (clone) the code
 First, check if you have Git. If you don't, download it. See [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) for more information. 
 
 ### Windows
-Visit https://git-scm.com/download/win to download the latest version. As part of this installation, be sure to install Git Bash. This will be the CLI tool that you will use. 
+Visit https://git-scm.com/download/win to download the latest version. As part of this installation, be sure to install Git Bash. This will be the CLI tool that you will use. Go ahead and open it after it has been installed.
 
 ### Mac
 Open the terminal and type:

@@ -2,8 +2,6 @@
 
 <!-- ## Table of Contents -->
 
-<!-- Add TOC -->
-
 ## Introduction
 This tutorial is meant to be a quick start for someone  new to the world of version control. It is not meant to be exhaustive or deep by any stretch of the imagination, but is meant to be a compilation of the common uses of Git and most Googled references to address these problems. 
 
