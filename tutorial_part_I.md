@@ -1,5 +1,6 @@
 
-# Git Tutorial: Part I
+# Part I: Git Installation and Basic Commands
+
 ## Coverage
 In this tutorial, you will install Git on your system, download (clone) the code for this sample project, make some changes to it, and upload (push) it to the remote repository.  
 
@@ -40,7 +41,7 @@ Here are the steps to do so in a typical project on Github.
 1. Access the link where the repository lives (you are already here, so this step is done.)
 2. *Fork* this repo to your own Github account. Why this is necessary will be explained later. The *Fork* button is provided in the top-right corner of the screen as shown below. 
 
-![fork_image](images/fork.png)
+![fork_image](.images/fork.png)
 
 3. Go to your Github account and access the forked version of this repository. This is your remote version of repository (also refered to as *repo*). 
 
@@ -123,7 +124,7 @@ This will show you the information of the remote that the repo is pointing to.
 
 For instance, it shows the following for me: 
 
-![git_remote_output_image](images/git_remote_output.png)
+![git_remote_output_image](.images/git_remote_output.png)
 
 Once you ensure that this is correct, type: 
 ```

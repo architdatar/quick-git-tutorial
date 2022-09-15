@@ -1,4 +1,4 @@
-# Git Tutorial: Part II
+# Part II: Introduction to Branching
 In this tutorial, we will cover the slightly more advanced concepts of version control such as managing branches, contributing to open source projects, and further reading.
 
 ## Branches

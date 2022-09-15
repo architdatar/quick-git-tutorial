@@ -2,8 +2,21 @@
 
 <!-- ## Table of Contents -->
 
+__Time Requirement__: 2 hrs
+
 ## Introduction
 This tutorial is meant to be a quick start for someone  new to the world of version control. It is not meant to be exhaustive or deep by any stretch of the imagination, but is meant to be a compilation of the common uses of Git and most Googled references to address these problems. 
+
+## Target Audience
+This tutorial is most useful to those who have some background in programming in any language but not background in version control. 
+
+It is especially useful to those who have a need to keep snapshots of their code at various points in time or work collaboratively. For example:
+
+- A researcher drawing insights from data while the data and/or the insights to be drawn change over time. 
+- A team training a machine learning model and deploying it in a web app. 
+
+## System Requirements
+A Windows, Mac, or Linux operating system. 
 
 ## Tutorial
 This tutorial will walk you through a sample project in which you will provide feature ideas and pseudocode for apps you want to see built.  
