@@ -68,7 +68,7 @@ Depending on the settings of the repository, you might be asked to first make an
 ### Make some additions and add them to the repository 
 Now that you have the code, make some changes to it. In this demonstration, you will contribute an idea for an app (doesn't have to be original, but bonus points if it is). 
 
-Go the *app_ideas* directory, create a new sub directory and give it the name of your app. Under this directory, make a file titled *pseudocode.txt*. A "pseudocode" is like a work flow of how you want the code to run. See the file *navigation/pseudocode.txt* for example. This is your idea for an app and how you would want it to work. 
+Go the *app_ideas* directory, create a new sub directory and give it the name of your app. Under this directory, make a file titled *pseudocode.txt*. A "pseudocode" is like a work flow of how you want the code to run. See the file *app_ideas/navigation/pseudocode.txt* for example. This is your idea for an app and how you would want it to work. 
 
 Once you have done this, you should want to push these back to the remote repository so that it will live on the remote server and be accessed by others. This is what you will do now. 
 
