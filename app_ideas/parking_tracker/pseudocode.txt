@@ -1,3 +1,0 @@
-1. Get data about all the parking spaces available in an area from available data sources. 
-2. Show that data to the user and allow them to make a selection. 
-3. Process payment and send the reservation to the online server. 
