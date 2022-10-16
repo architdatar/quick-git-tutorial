@@ -14,7 +14,7 @@ Here are two cases related to our project where that might be useful:
 
     How do you do it? Develop your new idea on a separate branch and then merge it with the main one when you feel ready. 
     
-    In fact, during development, it is recommended that you make new changes on a `dev` branch, test it thoroughly, and only then merge it with the `main` branch. 
+    *__Convention__*: In fact, during development, it is recommended that you make new changes on a `dev` branch, test it thoroughly, and only then merge it with the `main` branch. 
 
 2. *Collaboration:* Recall that that one of the goals of version control was to allow collaboration between developers. When you work on the code on your machine, you work on a branch of it; i.e., your local branch. Other developers work on their local branches and eventually, the changes are combined. Git gives you a great deal of control over how these changes are merged. More on this [later](#contributing-to-open-source-projects). 
 
