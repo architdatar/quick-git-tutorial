@@ -48,7 +48,7 @@ Now, go ahead and push this updated repo to Github just as before:
 git push
 ```
 
-## Conflict resolution (Under development)
+## Conflict resolution
 In the previous case, the merge occured without any errors since, we had only added some new files. But what would happen if there were a conflict? This typically occurs if you change the same part of the same file differently in the two branches being merged. In this case, we will resolve the conflicts and merge the branches. 
 
 ### Setting up the conflict
@@ -120,4 +120,4 @@ Congratulations! You have now resolved conflicts and merged branches.
 
 
 ## Summary
-Congratulations, you have finished Part II of the tutorial. You have learnt the basics of branching. You understood the idea of branching and created, compared, and merged branches. 
+Congratulations, you have finished Part III of the tutorial. You have learnt how to merge branches and handle conflicts. 

@@ -17,7 +17,7 @@ For the sake of this tutorial, we categorize projects into two:
     Even in this case, you can and should contribute. Here, we explore how. 
 
 ## Contributing to open source projects
-### What are open source projects
+### What are open source projects?
 The term [*open source*](https://opensource.com/article/18/2/coining-term-open-source-software) was coined by Christine Peterson in 1998 in the context of software. According to [opensource.com](https://opensource.com/resources/what-open-source), 
 >Open source software is software with source code that anyone can inspect, modify, and enhance.
 
@@ -31,7 +31,7 @@ Contributing to open source projects is an excellent way to build skills in writ
 ## How to merge your changes into the master project
 Let's say that your ideas for new apps were indeed something valuable and you wanted to contribute to this project. 
 
-Go ahead and try to push your repo (`msater` branch) to the `public` branch of this project using:
+Go ahead and try to push your repo (`master` branch) to the `public` branch of this project using:
 ```
 git push origin master:public 
 ```

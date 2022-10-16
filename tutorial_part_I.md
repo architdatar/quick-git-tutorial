@@ -33,7 +33,7 @@ For other Linux distributions, use https://git-scm.com/download/linux.
 ## Basic Git commands
 
 ### Get current version of a project
-Recall the one of the main aims of using version control is collaborative development. This means that all the collaborators must have access to the project. This is hard to do when the code lives on a personal machine. Thus, in most cases, the code is hosted on a remote server where access can be accessed easily and stay safe.
+Recall that one of the main aims of using version control is collaborative development. This means that all the collaborators must have access to the project. This is hard to do when the code lives on a personal machine. Thus, in most cases, the code is hosted on a remote server where access can be accessed easily and stay safe.
 
 So, let's say you wanted to contribute a cool feature to someone's code. The first step would be to get their code on your system. 
 
@@ -64,6 +64,7 @@ git clone https://github.com/architdatar/quick-git-tutorial
 ```
 
 Depending on the settings of the repository, you might be asked to first make an account or your credentials on the site such as GitLab or Github. Do that and repeat this step. You should be able to get the code. Congratulations, you have cloned your first repository. 
+
 
 ### Make some additions and add them to the repository 
 Now that you have the code, make some changes to it. In this demonstration, you will contribute an idea for an app (doesn't have to be original, but bonus points if it is). 

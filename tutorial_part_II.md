@@ -1,5 +1,5 @@
 # Part II: Introduction to Branching
-In this tutorial, we will cover the slightly more advanced concepts of version control such as managing branches, contributing to open source projects, and further reading.
+In this tutorial, we will cover the basics of branching such as making and managing branches. 
 
 ## Branches
 Concisely ([Pro Git](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)), 
@@ -10,7 +10,7 @@ Branching can be used for various purposes, such as feature development, collabo
 
 Here are two cases related to our project where that might be useful: 
 
-1. *Feature development*: Say you were developing a cool new app idea but aren't finished with it yet. You don't yet wish to share it with others. Now, you had to modify your previous idea and share it with someone else. 
+1. *Feature development*: Say you were developing a cool new app idea but aren't finished with it yet. You don't yet wish to merge it with the main code.
 
     How do you do it? Develop your new idea on a separate branch and then merge it with the main one when you feel ready. 
     
